@@ -1,0 +1,10 @@
+{
+    "packages": [
+        {
+            "name": "lost.waila",
+            "version": "0.0.6",
+            "scriptMainUnstable": true,
+            "description": "WAILA - block/entity cursor info"
+        }
+    ]
+}
